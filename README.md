@@ -13,6 +13,9 @@ Octavo semestre, año 2025
 Integrantes
 
 Fernández Arrazola Sofía Mariana
+
 González Gabriel Uriel
+
 Cisneros García Natalia
+
 Martínez Orozco Alan Enrique
