@@ -4,7 +4,7 @@ La idea es que cualquier persona, aunque no sepa nada de SQL, pueda hacer consul
 
 Universidad Autónoma de Tamaulipas
 
-Programación de Sistemas de Base
+Programación de Sistemas de Base 1
 
 Profesor: Muñoz Quinteros Dante
 
