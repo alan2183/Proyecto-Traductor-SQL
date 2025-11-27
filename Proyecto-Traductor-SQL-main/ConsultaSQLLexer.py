@@ -1,4 +1,5 @@
 # Generated from C:/Users/chofi/PycharmProjects/traductor_sql/ConsultaSQL.g4 by ANTLR 4.13.2
+#code
 
 from antlr4 import *
 from io import StringIO
