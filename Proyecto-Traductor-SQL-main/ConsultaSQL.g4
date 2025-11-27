@@ -1,4 +1,4 @@
-#inicio
+#code
 grammar ConsultaSQL;
 
 consulta
