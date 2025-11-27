@@ -1,3 +1,4 @@
+#code
 from antlr4 import *  # Importa las clases base de ANTLR
 from ConsultaSQLLexer import ConsultaSQLLexer  # Lexer generado por ANTLR
 from ConsultaSQLParser import ConsultaSQLParser  # Parser generado por ANTLR
