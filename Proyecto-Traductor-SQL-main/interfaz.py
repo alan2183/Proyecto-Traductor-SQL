@@ -1,3 +1,4 @@
+#code
 import tkinter as tk
 from tkinter import messagebox
 from main import traducir  # Importa la función traducir del archivo main.py
